@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Src/DesafioDotNet/.vs/DesafioDotNet/config
+/Src/DesafioDotNet/.vs/DesafioDotNet
+/Src/DesafioDotNet/bin/Debug/net5.0
+/Src/DesafioDotNet/obj
